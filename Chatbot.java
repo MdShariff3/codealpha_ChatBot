@@ -32,6 +32,7 @@ public class Chatbot {
                 System.out.println("ChatBot: Goodbye! Have a great day ahead 👋");
                 break;
             } 
+                
             else {
                 System.out.println("ChatBot: Hmm, I’m not sure about that. Can you rephrase?");
             }
@@ -40,3 +41,4 @@ public class Chatbot {
         scanner.close();
     }
 }
+
